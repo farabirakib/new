@@ -1,0 +1,9 @@
+const MenuItems = [
+  { name: "Home", link: "/" },
+  { name: "About", link: "/about" },
+  { name: "Services", link: "/services" },
+  { name: "Portfolio", link: "/portfolio" },
+  { name: "Contact", link: "/contact" },
+];
+
+export default MenuItems;
